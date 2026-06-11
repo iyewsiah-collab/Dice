@@ -29,68 +29,68 @@ const FACE_ROTATIONS = [
 // Fun, educational presets for lower primary school pupils
 const PRESET_LISTS = [
   { 
-    name: "Opposites Adjectives", 
+    name: "Adjectives", 
     icon: "🌟",
     words: ["short", "long", "beautiful", "ugly", "new", "old"],
     sentences: {
-      short: "The prompt rabbit has a very short tail! 🐇",
-      long: "The tall giraffe has a very long neck! 🦒",
-      beautiful: "Look at the beautiful butterfly on the flower! 🦋",
-      ugly: "The cute mud monster is silly and ugly! 🐸",
-      new: "I am playing with my shiny new toy! 🎁",
-      old: "My grandfather showed me a charming old book! 📖"
+      short: "a short ruler 📏",
+      long: "a long train 🚂",
+      beautiful: "a beautiful doll 🪆",
+      ugly: "an ugly monster 👾",
+      new: "a new bike 🚲",
+      old: "an old car 🚗"
     }
   },
   { 
-    name: "Rainbow Colors", 
+    name: "Colours", 
     icon: "🎨",
     words: ["red", "blue", "green", "yellow", "pink", "orange"],
     sentences: {
-      red: "The juicy red apple fell from the tree! 🍎",
-      blue: "The sky is bright blue and sunny today! ☀️",
-      green: "Soft green grass grows in the public park! 🌱",
-      yellow: "The happy yellow duckling swims in the pond! 🦆",
-      pink: "The flamingo has pretty pink feathers! 🦩",
-      orange: "We drank sweet orange juice for breakfast! 🍊"
+      red: "a red pen 🖊️",
+      blue: "a blue bike 🚲",
+      green: "a green go-kart 🏎️",
+      yellow: "a yellow rubber 🧼",
+      pink: "a pink doll 🪆",
+      orange: "an orange ball 🏀"
     }
   },
   { 
-    name: "Safari Animals", 
-    icon: "🦁",
-    words: ["lion", "monkey", "panda", "frog", "tiger", "bear"],
+    name: "Toys", 
+    icon: "🧸",
+    words: ["go-kart", "computer game", "train", "plane", "bike", "kite"],
     sentences: {
-      lion: "The golden lion roared loudly in the wild! 🦁",
-      monkey: "The funny monkey is swinging on the tree branches! 🐒",
-      panda: "The fluffy panda is eating fresh bamboo leaves! 🐼",
-      frog: "The tiny green frog lept onto a lily pad! 🐸",
-      tiger: "The striped tiger walked proudly through the grass! 🐯",
-      bear: "The brown bear is catching fish in the river! 🐻"
+      "go-kart": "My favourite toy is a go-kart. 🏎️",
+      "computer game": "My favourite toy is a computer game. 🎮",
+      train: "His favourite toy is a train. 🚂",
+      plane: "His favourite toy is a plane. ✈️",
+      bike: "Her favourite toy is a bike. 🚲",
+      kite: "Her favourite toy is a kite. 🪁"
     }
   },
   { 
-    name: "Action Words", 
-    icon: "🏃",
-    words: ["jump", "skip", "sing", "clap", "dance", "read"],
+    name: "Numbers", 
+    icon: "🔢",
+    words: ["eight", "one", "five", "four", "nine", "ten"],
     sentences: {
-      jump: "Can you jump as high as a playful kangaroo? 🦘",
-      skip: "Let's skip happily down the garden path! 🤸",
-      sing: "The sweet birds sing a lovely song in the morning! 🐦",
-      clap: "Clap your hands together if you feel happy! 👏",
-      dance: "We love to dance to the cheerful music! 💃",
-      read: "It is fun to read stories before bedtime! 📚"
+      eight: "My favourite number is eight. 8️⃣",
+      one: "My favourite number is one. 1️⃣",
+      five: "My favourite number is five. 5️⃣",
+      four: "My favourite number is four. 4️⃣",
+      nine: "My favourite number is nine. 9️⃣",
+      ten: "My favourite number is ten. 🔟"
     }
   },
   { 
-    name: "My Feelings", 
-    icon: "🥰",
-    words: ["happy", "sad", "excited", "scared", "tired", "brave"],
+    name: "Shapes", 
+    icon: "📐",
+    words: ["shapes", "circle", "rectangle", "square", "triangle", "parallelogram"],
     sentences: {
-      happy: "A warm smile makes everyone feel happy! 😊",
-      sad: "It is okay to feel sad when you lose a toy! 😢",
-      excited: "I am excited to visit the zoo tomorrow! 🎟️",
-      scared: "The tiny puppy was scared of direct thunder! ⛈️",
-      tired: "I feel tired after running around the playground! 💤",
-      brave: "Be brave like a superhero when trying new things! 🦸"
+      shapes: "I can see shapes. 🟦",
+      circle: "I can see a circle. 🔴",
+      rectangle: "I can see a rectangle. 🟩",
+      square: "I can't see a square. ⬜",
+      triangle: "I can't see a triangle. 🔺",
+      parallelogram: "I can't see a parallelogram. ⬡"
     }
   }
 ];
