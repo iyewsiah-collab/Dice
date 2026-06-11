@@ -1,0 +1,8 @@
+{
+  "name": "3D Word Dice",
+  "description": "An interactive 3D word dice rolling simulator for kids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
